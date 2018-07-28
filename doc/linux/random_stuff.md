@@ -1,6 +1,6 @@
 # Linux Random stuff
 ## Summary
-[How to Fix System Program Problem Detected in Ubuntu](###How-To-Fix-System-Program-Problem-Detected-In-Ubuntu)
+[How to Fix System Program Problem Detected in Ubuntu](#how-to-fix-system-program-problem-detected-in-ubuntu)
 
 ## Contents
 ### How To Fix System Program Problem Detected In Ubuntu
