@@ -28,5 +28,6 @@
   
   (References: https://itsfoss.com/how-to-fix-system-program-problem-detected-ubuntu/).
 ### Access Linux Partition in Windows
-  Video tutorial link: https://www.youtube.com/watch?v=BE9MAT78PIc.
-  Software website: https://www.youtube.com/redirect?event=video_description&v=BE9MAT78PIc&q=http%3A%2F%2Fwww.ext2fsd.com%2F&redir_token=Ga6bX37tWlI9c1FDhgX3acuTcU58MTUzMjkzODMzNUAxNTMyODUxOTM1
+  - Video tutorial link: https://www.youtube.com/watch?v=BE9MAT78PIc.
+  
+  - Software website: http://www.ext2fsd.com/.
