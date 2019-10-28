@@ -81,5 +81,5 @@ filetype plugin indent on    " required
 
 **5. My .vimrc**
 
-Here is current [.vimrc]() after  all the customization.
+Here is current [.vimrc](https://raw.githubusercontent.com/Briancbn/tutorial/master/doc/linux/.example.vimrc) after  all the customization.
 
