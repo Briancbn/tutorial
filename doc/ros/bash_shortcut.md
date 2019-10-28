@@ -4,6 +4,6 @@ Usually after ROS installation, you are instructed to put `source /opt/ros/$ROS_
 
 Delete the sourcing lines that were added into your `.bashrc`  file. Then run the following command to update the new bashrc as well as installing the bash script for the shortcuts.
 ```
-wget
+wget https://raw.githubusercontent.com/Briancbn/tutorial/master/doc/ros/.ros_shortcut.bash
 echo ". ~/.ros_shortcut.bash" >> ~/.bashrc
 ```
